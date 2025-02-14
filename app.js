@@ -29,6 +29,20 @@ function agregarAmigo() {
 }
 
 //Funcion para actualizar la lista
+function actualizarLista(){
+    let listaAmigos = document.getElementById('listaAmigos');
+
+    //Limpiar el contenido de la lista
+    listaAmigos.innerHTML = "";
+
+    //Recorrido con ciclo for
+    for (let i = 0; i < amigos.length; i++) {
+        let li = document.createElement('li');
+        li.textContent = amigos[i];
+        listaAmigos.appendChild(li);
+    }
+
+}
 
 
 //Funcion para seleccionar amigo aleatoriamente
