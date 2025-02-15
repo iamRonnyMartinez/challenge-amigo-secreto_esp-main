@@ -14,7 +14,7 @@ function agregarAmigo() {
 
     //Validar que los nombres no esten duplicados
     if (amigos.includes(nombreAmigo)) {
-        alert(`El nombre ${nombreAmigo}` ya esta en la lista);
+        alert(`El nombre ${nombreAmigo} ya esta en la lista`);
     }
 
     //Agregar el nombre al array
