@@ -24,5 +24,6 @@ https://github.com/iamRonnyMartinez/challenge-amigo-secreto_esp-main.git</p>
 
 <h3>Personas desarrolladoras del proyecto</h3>
 
-<h4>Autores:</h4>
-[]
+<h4>Link del perfil de GitHub de los Autores:</h4>
+
+* https://github.com/iamRonnyMartinez
