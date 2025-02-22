@@ -4,9 +4,25 @@
 
 <h2>Descripcion del proyecto</h2>
 
-<p>Este sistema consta en agregar nombres de personas a una lista para luego ser seleccionados al azar, gracias a las distintas funciones que nos regala JavaScrip.</p>
+<p>Este sistema consta en agregar nombres de personas a una lista para luego ser seleccionados al azar, gracias a las distintas funciones que nos regala JavaScript.</p>
 
 <h3>Estado del proyecto</h3>
 <p align="left">
    <img src="https://img.shields.io/badge/STATUS-%20TERMINADO-blue">
    </p>
+
+<h3>Acceso al proyecto</h3>
+<p>Si quieres acceder al proyecto, lo puedes hacer dandole click al siguiente enlace:
+
+https://github.com/iamRonnyMartinez/challenge-amigo-secreto_esp-main.git</p>
+
+<h3>Tecnologias utilizadas</h3>
+
+* HTML 5
+* CSS
+* JavaScript
+
+<h3>Personas desarrolladoras del proyecto</h3>
+
+<h4>Autores:</h4>
+[]
